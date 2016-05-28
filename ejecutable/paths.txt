@@ -1,0 +1,11 @@
+\\192.168.1.244\hallazgos\ESPECIFICACIONES3.xls
+\\192.168.1.244\hallazgos\plantillaReporteHallazgos.xls
+\\192.168.1.244\hallazgos\ayudantes.txt
+\\192.168.1.244\hallazgos\enterado.txt
+\\192.168.1.244\hallazgos\identificadoPor.txt
+\\192.168.1.244\hallazgos\inspectores.txt
+\\192.168.1.244\hallazgos\responsables.txt
+\\192.168.1.244\hallazgos\operadores.txt
+\\192.168.1.244\hallazgos\supervisores.txt
+\\192.168.1.244\hallazgos\dbReporteDeHallazgos.accdb
+
